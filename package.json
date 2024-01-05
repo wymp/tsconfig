@@ -1,0 +1,17 @@
+{
+  "name": "@wymp/tsconfig",
+  "version": "1.0.0",
+  "description": "A collection of tsconfig files that form the basis of my TypeScript projects.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "tsconfig"
+  ],
+  "author": "Kael Shipman",
+  "license": "ISC",
+  "dependencies": {
+    "@tsconfig/node20": "^20.1.2"
+  }
+}

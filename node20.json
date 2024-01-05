@@ -1,0 +1,13 @@
+{
+  "display": "Wymp Node 20",
+  "extends": "@tsconfig/node20/tsconfig.json",
+  "compilerOpitons": {
+    "esModuleInterop": false,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitOverride": true
+  }
+}
